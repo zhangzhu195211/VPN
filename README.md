@@ -7,3 +7,20 @@ $ git clone https://git.zx2c4.com/WireGuard
 $ git clone git：//git.zx2c4.com/WireGuard
 或者，如果您具有推送访问权限，则可以通过SSH进行克隆： 
 $ git clone ssh：//git@git.zx2c4.com/WireGuard
+
+
+SSTAP
+start psiphon3
+198.183.157.52:80
+start Jumpstart 1st Grade™
+https://t.me/programmer_humor
+https://t.me/ruanyuww
+https://t.me/fanqiangdang
+https://t.me/ceefans
+@ChinoNyanBot
+https://t.me/oktwsv
+https://t.me/SSRSUB
+https://t.me/joinchat/AAAAAE8dZWWgNia8tSVZVQ
+https://t.me/yuinya
+https://t.me/politicJokeZhao
+https://t.me/LeagueOfLegends
